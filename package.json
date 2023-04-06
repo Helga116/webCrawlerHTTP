@@ -1,0 +1,23 @@
+{
+  "name": "webcrawlerhttp",
+  "version": "1.0.0",
+  "description": "project for the learning HTTP course",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Helga116/webCrawlerHTTP.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Helga116/webCrawlerHTTP/issues"
+  },
+  "homepage": "https://github.com/Helga116/webCrawlerHTTP#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
