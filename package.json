@@ -19,5 +19,8 @@
   "homepage": "https://github.com/Helga116/webCrawlerHTTP#readme",
   "devDependencies": {
     "jest": "^29.5.0"
+  },
+  "dependencies": {
+    "@jest/globals": "^29.5.0"
   }
 }
